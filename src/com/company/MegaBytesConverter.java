@@ -1,4 +1,4 @@
-// Write a method called printMegaBytesAndKiloBytes that has 1 parameter
+package com.company;// Write a method called printMegaBytesAndKiloBytes that has 1 parameter
 // of type int with the name kiloBytes.
 // The method should not return anything and it needs to calculate the megabytes
 // and remaining kilobytes from the kilobytes parameter.
